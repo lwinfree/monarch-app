@@ -5,7 +5,7 @@
     <div class="col-12 col-lg-3">
       <div class="media">
         <img class="img-fluid"
-        style="max-height:150px; margin:auto; padding:5px;"
+        style="max-height:150px; margin:auto; padding:5px 5px 15px 5px;"
         src="../assets/images/monarch-logo-black-stacked.png" 
         alt="Monarch logo">
       </div>
@@ -91,8 +91,19 @@
   background-color: lightgrey;
 }
 
+.about-section{
+  padding-left: 25px;
+}
+
+@media (max-width: 770px) {
+  .about-section {
+    text-align: center;
+  }
+}
+
 .about-section > ul > li > a {
   padding: 0;
   margin: 0;
 }
+
 </style>
