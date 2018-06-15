@@ -340,7 +340,7 @@ html {
 #monarch-home-container h1,
 #monarch-home-container h2,
 #monarch-home-container h3,
-*/ COMMENT OUT #monarch-home-container h4, */
+/* COMMENT OUT #monarch-home-container h4, */
 #monarch-home-container h5,
 #monarch-home-container h6 {
   margin: 0 0 35px;
@@ -393,10 +393,10 @@ html {
   color: white;
   background: url(../assets/images/home-splash.png) no-repeat bottom center scroll;
   background-color: #434343;
-  */ -webkit-background-size: cover;*/
-  */ -moz-background-size: cover;*/
-  */ background-size: cover;*/
-  */ -o-background-size: cover;*/
+  /* -webkit-background-size: cover;*/
+  /* -moz-background-size: cover;*/
+  /* background-size: cover;*/
+  /* -o-background-size: cover;*/
   .intro-body {
     display: table-cell;
     vertical-align: middle;
